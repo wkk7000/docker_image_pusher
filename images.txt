@@ -1,2 +1,2 @@
-ruoyi:latest
+docker pull ruoyi/ruoyi:latest
 
