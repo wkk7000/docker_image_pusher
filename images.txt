@@ -1,2 +1,2 @@
+ruoyi/ruoyi:latest
 
-minio/minio:latest
