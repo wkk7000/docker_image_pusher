@@ -1,2 +1,2 @@
-docker pull ruoyi/ruoyi:latest
+rancher/rancher:latest
 
