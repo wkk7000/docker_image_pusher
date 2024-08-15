@@ -1,2 +1,2 @@
-rancher/rancher:latest
 
+rancher:v2.4.2
